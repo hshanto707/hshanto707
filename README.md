@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hasibul Hasan Shanto currently working as a full stack web developer for over a year now
+- 👋 Hi, I’m Hasibul Hasan Shanto, Full-Stack Engineer with 4.5+ years of professional experience
 - 👀 I’m interested in Web Development & Mobile App Development
 - 🌱 I’m currently learning Flutter to intruduce myself Mobile App Development
 - 💞️ I’m looking to collaborate on some cool web app or mobile app opensource projects
